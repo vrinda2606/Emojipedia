@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Desktop/React"
+		},
+		{
+			"path": "../../OneDrive/Desktop/udemy"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
